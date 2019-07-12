@@ -1,0 +1,15 @@
+cms.txt
+Created Fri Jul 12 15:09:36 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Content Management Systems
+
+
+A content management system (CMS) is a software application
+or set of related programs that are used to create and manage
+digital content.  CMSes are typically used for enterprise
+content management (ECM) and web content management (WCM).
+--What is content management system (CMS)? - Definition from WhatIs...
+  Jun 1, 2016
+  https://searchcontentmanagement.techtarget.com/definition/content-management-system-CMS
