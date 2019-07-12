@@ -12,6 +12,7 @@ Percussion CM1
 Pretty good looking cms
 Found when researching what href
 perc-linkid="1401553" perc-managed="true"
-attibutes were.
+attibutes were at:
+/mnt/webdocs/webdev/commis/pic/about.htm
 i.e. Managed tags.
 https://help.percussion.com/percussion-cm1/overview/index
