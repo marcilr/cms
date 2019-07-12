@@ -8,6 +8,10 @@ CMS (Content Management System) related links
 
 Links
 =====
+Installing CM1 on Linux
+Runs on Ubuntu or Linux
+https://help.percussion.com/percussion-cm1/install-setup/installing-cm1/linux-cms/index
+
 Percussion CM1
 Pretty good looking cms
 Found when researching what href
@@ -16,3 +20,8 @@ attibutes were at:
 /mnt/webdocs/webdev/commis/pic/about.htm
 i.e. Managed tags.
 https://help.percussion.com/percussion-cm1/overview/index
+
+Percussion Standard Agreement
+Software License and Subscription Agreement
+Effective January, 2019
+https://www.percussion.com/legal/
