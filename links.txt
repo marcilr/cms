@@ -1,0 +1,17 @@
+links.txt
+Created Fri Jul 12 15:12:45 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+CMS (Content Management System) related links
+
+
+Links
+=====
+Percussion CM1
+Pretty good looking cms
+Found when researching what href
+perc-linkid="1401553" perc-managed="true"
+attibutes were.
+i.e. Managed tags.
+https://help.percussion.com/percussion-cm1/overview/index
